@@ -1,4 +1,4 @@
-The sum of revenue by revenue field: 432720192875.0000000000 dollars
-The sum of revenue by revenue_adj field: 558125171109.8251953125 dollars
+The sum of revenue by revenue field: 432719225875.0000000000 dollars
+The sum of revenue by revenue_adj field: 558124204109.8251953125 dollars
 The director has the most movies is: Woody Allen (46 movies)
 The actor or actress has the most movies is: Robert De Niro (72 movies)
